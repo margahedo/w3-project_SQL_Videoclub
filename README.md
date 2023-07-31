@@ -3,27 +3,26 @@
 ![portada](https://www.wedfest.co/wp-content/uploads/2022/10/retro-video-tapes-VHS-TABLE-PLAN.jpg)
 
 
-** Video stores are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
+**Video stores** are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
 
-As a tribute to these places that already belong to the past, we are going to build a new database from csv files.
+As a **tribute** to these places that already belong to the past, we are going to build a new database from csv files.
 
 For this project, we will start with 6 `csv` files. 
 
 I will download it, import it, clean it, prepare them to load them in a `sql` database and finally analyze them.
 
-In the analysis there will also be some graphs to better understand the data.**
+In the analysis there will also be some graphs to better understand the data.
 
-## TO DO's
+## GET READY!
 
-1. Explore the data and write down what you have found
-   - you can use: `df.describe()`, `df["column"]`, etc.
-1. Clean the data (you can get rid of columns that doesn't give information)
-1. Build your databse
-1. Write at least 10 queries including: join, groupby, orderby, where, subqueries….that you think will be useful to get interesting insights from the data.**(SELECT* FROM TABLE_NAME doesn't count...)** 
-+ Bonus: Get creative!!! Create totally new tables or enrich the csv files with new data (found on the internet or even made up) that makes your database more valuable.
+Loading the data `(.csv)` into dataframes from `Pandas Library` and print the .head() of each df. 
+
+When importing pandas set the option **show all** columns with this code:
+
+ **pd.set_option('display.max_columns', None)**
 
 
-## Suggested Ways to Get Started
+## Clean it all up!
 
 - Examine the data and try to understand what the fields mean before building the database.
 - Break the project down into different steps - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
