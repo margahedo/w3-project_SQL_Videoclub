@@ -1,9 +1,15 @@
-# W3 Project - Building mySQL Data-base 
+# The Blockbuster - SQL Project
 
-![portada](https://i0.wp.com/itsoftware.com.co/content/wp-content/uploads/2018/03/que-es-y-para-que-sirve-mysql-1.jpg)
+![portada]([https://i0.wp.com/itsoftware.com.co/content/wp-content/uploads/2018/03/que-es-y-para-que-sirve-mysql-1.jpg](https://www.rarovhs.com/wp-content/uploads/2019/06/videoteca-rosario-videoclub-13.jpg))
 
 
-The goal of this project is to build your own database from several csv files. For this project, you will start with 6 `csv` files. You will need to download it, import it, use your data wrangling skills to clean it up, have a first look at the data to figure out out to structure it, prepare it to be loaded in a sql database and finally build it. Some graphs to better understand the data will surely be useful!!
+Video stores are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
+
+As a tribute to these places that already belong to the past, we are going to build a new database from csv files.
+
+For this project, we will start with 6 `csv` files. What we will do is download it, import it, clean it, prepare them to load them in a sql database and finally analyze them.
+
+In the analysis there will also be some graphs to better understand the data.
 
 ## TO DO's
 
