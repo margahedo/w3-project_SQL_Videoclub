@@ -1,6 +1,6 @@
 # The Blockbuster - SQL Project
 
-![portada]([https://www.wedfest.co/wp-content/uploads/2022/10/retro-video-tapes-VHS-TABLE-PLAN.jpg))
+![portada](https://www.wedfest.co/wp-content/uploads/2022/10/retro-video-tapes-VHS-TABLE-PLAN.jpg)
 
 
 Video stores are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
