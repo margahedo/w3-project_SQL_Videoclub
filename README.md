@@ -13,7 +13,7 @@ I will download it, import it, clean it, prepare them to load them in a `sql` da
 
 In the analysis there will also be some graphs to better understand the data.
 
-## GET READY!
+## Get ready!
 
 Loading the data `(.csv)` into dataframes from `Pandas Library` and print the .head() of each df. 
 
@@ -24,26 +24,11 @@ When importing pandas set the option **show all** columns with this code:
 
 ## Clean it all up!
 
-- Examine the data and try to understand what the fields mean before building the database.
-- Break the project down into different steps - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
-- Use the tools in your tool kit - your knowledge of Python, data structures, Pandas, and data wrangling.
-  Work through the lessons in class & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... procrastinating.
-- Commit early, commit often, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-- Consult documentation and resources provided to better understand the tools you are using and how to accomplish what you want.
+Using the tools: Python, data structures, Pandas, and data wrangling.
 
-## How to deliver the project
-
-1. Create a new repo with the name `sql-data-base-building` on your github account.
-   - Create a `README.md` file on repo root with project documentation. Make sure to include as much useful information as possible. Someone that finds the README.md should be able to fully get a gist of the project without browsing your files.
-   - Include a `.gitignore`
-   - At least 1 jupyter notebook is required
-   - Include the necessary code files to create and feed the database.
-   - Including your functions in a `src.py` is mandatory.
+Consulting always documentation and resources provided to better understand the tools we are using and how to accomplish what we want.
    
-2. Open an `Issue` on this repo and paste your own repo's link.
-
 ## Links & Resources
-
 
 - <https://numpy.org/doc/1.18/>
 - <https://pandas.pydata.org/>
