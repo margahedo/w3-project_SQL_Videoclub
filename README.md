@@ -3,7 +3,7 @@
 ![portada](https://www.wedfest.co/wp-content/uploads/2022/10/retro-video-tapes-VHS-TABLE-PLAN.jpg)
 
 
-Video stores are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
+** Video stores are one of the symbols of the end of the 20th century and even the beginning of the 21st century.
 
 As a tribute to these places that already belong to the past, we are going to build a new database from csv files.
 
@@ -11,7 +11,7 @@ For this project, we will start with 6 `csv` files.
 
 I will download it, import it, clean it, prepare them to load them in a `sql` database and finally analyze them.
 
-In the analysis there will also be some graphs to better understand the data.
+In the analysis there will also be some graphs to better understand the data.**
 
 ## TO DO's
 
